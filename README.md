@@ -1,6 +1,4 @@
-### We are trying to reborn NOMP. Need contributors!
--------
-# Neoscrypt algo fixed
+### ZenProtocol Mining Pool
 
 -------
 ### Node Open Mining Portal consists from 3 main modules:
